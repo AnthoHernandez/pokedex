@@ -1,0 +1,2 @@
+# pokedex
+practica js 
